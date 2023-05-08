@@ -1,6 +1,6 @@
 {
   "name": "@react-native-hero/styled-text",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "react native styled text",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/react-native-hero/styled-text#readme",
   "dependencies": {
-    "@yorkjs/pattern": "^0.0.2"
+    "@yorkjs/pattern": "^0.0.3"
   }
 }
