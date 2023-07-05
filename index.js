@@ -18,7 +18,7 @@ import {
 
 const styles = StyleSheet.create({
   link: {
-    color: '#2440b3',
+    color: '#306FA2',
   },
   highlight: {
     color: 'red',
